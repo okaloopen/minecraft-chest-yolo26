@@ -1,0 +1,7 @@
+path: .
+train: data/images/train
+val: data/images/train
+test: data/images/train
+
+names:
+  0: chest
